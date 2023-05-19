@@ -10,8 +10,8 @@
     <tbody>
         <tr>
             <td><img src='images/Screenshot (250).png'/></td>
-            <td><img src='images/Screenshot (251).png'/></td>
             <td><img src='images/Screenshot (253).png'/></td>
+            <td><img src='images/Screenshot (292).png'/></td>
         </tr>
     </tbody>
 </table>
