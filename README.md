@@ -37,7 +37,6 @@
     </thead>
     <tbody>
         <tr>
-            
             <td><img src='images/Screenshot (292).png'/></td>
             <td><img src='images/Screenshot (285).png'/></td>
             <td><img src='images/Screenshot (286).png'/></td>
