@@ -4,7 +4,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan=3> System turing on </th>
+            <th colspan=3> System turning on </th>
         </tr>
     </thead>
     <tbody>
@@ -19,14 +19,28 @@
 <table>
     <thead>
         <tr>
-            <th colspan=3> Facial Landmark, Head Pose Estimation & Gaze Estimation Models (FP16, FP16-INT8, FP32) </th>
+            <th colspan=3> Left click and Right click </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src='bin/metrics/inf_time.png'/></td>
-            <td><img src='bin/metrics/load_time.png'/></td>
-            <td><img src='bin/metrics/fps.png'/></td>
+            <td><img src='images/Screenshot (255).png'/></td>
+            <td><img src='images/Screenshot (275).png'/></td>
+            <td><img src='images/Screenshot (285).png'/></td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan=3> System turning off </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src='images/Screenshot (286).png'/></td>
+            <td><img src='images/Screenshot (292).png'/></td>
+            <td><img src='images/Screenshot (285).png'/></td>
         </tr>
     </tbody>
 </table>
