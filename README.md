@@ -1,5 +1,5 @@
 # Mouse Cursor Movement and Control using Eye Gaze- A Human Computer Interaction
-## Screenshot
+## After considering various input forms, such as eye detection situation, system on-off process using mouth, left click and right click using eyes. We prepared the visual results to observe proposed system’s performances.
 <table>
     <thead>
         <tr>
