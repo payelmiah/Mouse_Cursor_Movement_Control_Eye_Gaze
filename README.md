@@ -43,3 +43,27 @@
         </tr>
     </tbody>
 </table>
+
+
+## Landmark
+<p>The functionalities of the right click and left click
+will be accessed through right eye winking and left
+eye winking. For the left eye wink detection
+landmark, 145,159 was used , and for
+the right eye wink detection landmark, 386,374 was
+used.<p>
+    
+<table>
+    <thead>
+        <tr>
+            <th colspan=3> Landmark </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src='images/Right eye.PNG' width="1100" height="128"/></td>
+            <td><img src='images/Left eye.PNG'/></td>
+            <td><img src='images/Mouth.PNG'/></td>
+        </tr>
+    </tbody>
+</table>
